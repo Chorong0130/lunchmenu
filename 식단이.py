@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 봇 토큰 설정
-TOKEN = 'MTIwMDg1MzMwNDE1OTI0ODU1Ng.GcIXwn.EXl4jTF3QkmAf2GhZ8SvP36d33sq62nycenUD8'
+TOKEN = ''
 
 # 웹 페이지 크롤링 함수
 def crawl_data():
