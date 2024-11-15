@@ -5,7 +5,7 @@
 
   이 프로그램은 재학 중인 대학교의 일주일 식단에 대한 페이지를 html 형식으로 받아와 이를 html 태그에 따라 구분한 뒤, 
 
-  필요한 부분만을 특정 형식에 따라 구성하여 디스코드 봇에서 "!lunch" 라는 명령어가 입력될 시에 해당 디스코드 채널에 출력해주는 프로그램입니다.
+  필요한 부분만을 특정 형식에 따라 구성하여 디스코드 봇에서 "!lunch" 라는 명령어가 입력될 시에 해당 디스코드 채널에 출력해주는 파이썬 프로그램입니다.
 
 
 [사용한 모듈과 그 사용에 관한 설명]
@@ -23,7 +23,7 @@ English
 
 [Program explanation]
 
-  This program takes pages about the weekly diet of my university in the form of html, 
+  This Python program takes pages about the weekly diet of my university in the form of html, 
 
   distinguishes them according to the html tag, configures only the necessary parts according to a specific format, and outputs them 
 
